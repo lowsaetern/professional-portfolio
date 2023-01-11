@@ -1,5 +1,5 @@
 import React, { useRef } from "react";
-import emailjs from '@emailjs/browser';
+import emailjs from "@emailjs/browser";
 import "./contact.css";
 
 const Contact = () => {
@@ -8,14 +8,13 @@ const Contact = () => {
   const sendEmail = (e) => {
     e.preventDefault();
 
-    emailjs
-      .sendForm(
-        "service_hhfcegn",
-        "template_ohhqmaq",
-        form.current,
-        "sTdL-SmLzej55xaYZ"
-      )
-      e.target.reset()
+    emailjs.sendForm(
+      "service_hhfcegn",
+      "template_ohhqmaq",
+      form.current,
+      "sTdL-SmLzej55xaYZ"
+    );
+    e.target.reset();
   };
 
   return (
@@ -35,7 +34,7 @@ const Contact = () => {
               <span className="contact__card-data">l.saetern@outlook.com</span>
 
               <a
-                href="mailto:examplemail@gmail.com.com"
+                href="mailto:l.saetern@outlook.com"
                 className="contact__button"
               >
                 Write me{" "}
@@ -64,7 +63,10 @@ const Contact = () => {
               <h3 className="contact__card-title">LinkedIn</h3>
               <span className="contact__card-data">Low Brian Saetern</span>
 
-              <a href="https://linkedin.com/in/lbsaetern" className="contact__button">
+              <a
+                href="https://linkedin.com/in/lbsaetern"
+                className="contact__button"
+              >
                 Write me{" "}
                 <i className="bx bx-right-arrow-alt contact__button-icon"></i>
               </a>

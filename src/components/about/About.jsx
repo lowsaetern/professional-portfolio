@@ -17,9 +17,11 @@ const About = () => {
           <Info />
 
           <p className="about__description">
-            Certified Full Stack Developer, I am a new graduate, I am proficient in both Front-End
-            Development and Back-End Development. I am excited to start my career in the tech industry and 
-            learn more as I go throughout my career.         </p>
+            Certified Full Stack Developer, I am a new graduate, I am proficient
+            in both Front-End Development and Back-End Development. I am excited
+            to start my career in the tech industry and learn more as I go
+            throughout my career.{" "}
+          </p>
 
           <a download="" href={CV} className="button button--flex">
             Download Resume

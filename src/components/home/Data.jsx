@@ -57,8 +57,9 @@ const Data = () => {
       </h1>
       <h3 className="home__subtitle">Full Stack Developer</h3>
       <p className="home__description">
-        I am a Certified Full Stack Developer from the University of California, Davis. I am 
-        currently looking for an entry level position at your company.
+        I am a Certified Full Stack Developer from the University of California,
+        Davis. I am currently looking for an entry level position at your
+        company.
       </p>
 
       <a href="#contact" className="button button--flex">

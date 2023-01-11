@@ -9,7 +9,7 @@ const Social = () => {
         target="_blank"
         rel="noreferrer"
       >
-       <i className="uil uil-linkedin"></i>
+        <i className="uil uil-linkedin"></i>
       </a>
 
       <a
@@ -20,16 +20,15 @@ const Social = () => {
       >
         <i className="uil uil-github-alt"></i>
       </a>
-      
+
       <a
         href="https://join.slack.com/t/lowbriansaetern-1/shared_invite/zt-1n5wwi1wx-QBTPGen~Owk~DZ~Ems7dxg"
         className="home__social-icon"
         target="_blank"
         rel="noreferrer"
       >
-       <i className="uil uil-slack"></i>
+        <i className="uil uil-slack"></i>
       </a>
-
     </div>
   );
 };
