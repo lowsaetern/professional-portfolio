@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/professional-portfolio/static/css/main.9e7b8450.css",
+    "main.js": "/professional-portfolio/static/js/main.19ba6b2c.js",
+    "static/media/about.jpg": "/professional-portfolio/static/media/about.03b42050401a3d6d15a8.jpg",
+    "static/media/profile.jpg": "/professional-portfolio/static/media/profile.03b42050401a3d6d15a8.jpg",
+    "static/media/work2.jpg": "/professional-portfolio/static/media/work2.ef1ebe9b3b9170a70717.jpg",
+    "static/media/work1.jpg": "/professional-portfolio/static/media/work1.2983fa412523c2cf30ca.jpg",
+    "static/media/work4.jpg": "/professional-portfolio/static/media/work4.adfe84baed9ce34bcddc.jpg",
+    "static/media/work3.jpg": "/professional-portfolio/static/media/work3.b8a467f9db0503d260f5.jpg",
+    "static/media/work7.jpg": "/professional-portfolio/static/media/work7.1c4b1e392cc2e7d262d9.jpg",
+    "static/media/work8.jpg": "/professional-portfolio/static/media/work8.5d1a9d0b0d6b8b904a7b.jpg",
+    "static/media/work6.jpg": "/professional-portfolio/static/media/work6.ccb0205196d41264d2eb.jpg",
+    "static/media/work9.jpg": "/professional-portfolio/static/media/work9.3cd2c23c6e3418f861b0.jpg",
+    "static/media/Resume-Saetern.pdf": "/professional-portfolio/static/media/Resume-Saetern.c1891fdac29932388a7f.pdf",
+    "static/media/work5.jpg": "/professional-portfolio/static/media/work5.25b3cbd56f95dc683d82.jpg",
+    "index.html": "/professional-portfolio/index.html",
+    "main.9e7b8450.css.map": "/professional-portfolio/static/css/main.9e7b8450.css.map",
+    "main.19ba6b2c.js.map": "/professional-portfolio/static/js/main.19ba6b2c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e7b8450.css",
+    "static/js/main.19ba6b2c.js"
+  ]
+}
