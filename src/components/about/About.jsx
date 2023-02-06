@@ -17,10 +17,14 @@ const About = () => {
           <Info />
 
           <p className="about__description">
-            Certified Full Stack Developer, I am a new graduate, I am proficient
-            in both Front-End Development and Back-End Development. I am excited
-            to start my career in the tech industry and learn more as I go
-            throughout my career.{" "}
+          
+I am a new graduate from the the University of California, Davis (UCD), where I completed the Full Stack Developer Certification. My project experience includes React, SQL, Javascript, Python and Node. I still seek opportunities to expand my technical knowledge and explore different platforms.
+<br/>
+<br/>
+I would describe myself as solution driven  and  detail oriented. I am excited to kickstart my career into tech to bridge both qualities. 
+<br/>
+<br/>
+Please download my resume below to view my current project experience and check out my GitHub below to see what projects I was previously engaged on.{" "}
           </p>
 
           <a download="" href={CV} className="button button--flex">
