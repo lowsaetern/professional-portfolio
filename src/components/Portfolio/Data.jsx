@@ -37,13 +37,13 @@ export const projectsData = [
     id: 5,
     image: Work5,
     title: "Employee Management Program",
-    category: "sql",
+    category: "SQL",
   },
   {
     id: 6,
     image: Work6,
     title: "Note Taker",
-    category: "express",
+    category: "node",
   },
   {
     id: 7,
@@ -77,10 +77,7 @@ export const projectsNav = [
     name: "react",
   },
   {
-    name: "express",
-  },
-  {
-    name: "sql",
+    name: "SQL",
   },
   {
     name: "node",
