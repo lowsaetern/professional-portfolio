@@ -18,7 +18,7 @@ const About = () => {
 
           <p className="about__description">
           
-I am a new graduate from the the University of California, Davis (UCD), where I completed the Full Stack Developer Certification. My project experience includes React, SQL, Javascript, Python and Node. I thrive on opportunities to expand my technical knowledge and diversify my platform skillset.
+I am a new graduate from the University of California, Davis (UCD), where I completed the Full Stack Developer Certification. My project experience includes React, SQL, Javascript, Python and Node. I thrive on opportunities to expand my technical knowledge and diversify my platform skillset.
 <br/>
 <br/>
 I would describe myself as solution driven  and  detail oriented. I am excited to kickstart my career into tech to bridge both qualities. 
