@@ -22,7 +22,7 @@ const Social = () => {
       </a>
 
       <a
-        href="https://join.slack.com/t/lowbriansaetern-1/shared_invite/zt-1n5wwi1wx-QBTPGen~Owk~DZ~Ems7dxg"
+        href="https://lowbriansaetern-1.slack.com/archives/C04QTNLENGM"
         className="home__social-icon"
         target="_blank"
         rel="noreferrer"
