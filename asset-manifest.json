@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/professional-portfolio/static/css/main.16663cad.css",
-    "main.js": "/professional-portfolio/static/js/main.b918843a.js",
+    "main.js": "/professional-portfolio/static/js/main.3f2d293e.js",
     "static/media/work2.jpg": "/professional-portfolio/static/media/work2.ef1ebe9b3b9170a70717.jpg",
     "static/media/profile.jpg": "/professional-portfolio/static/media/profile.9064def4f77c452135e5.jpg",
     "static/media/work1.jpg": "/professional-portfolio/static/media/work1.2983fa412523c2cf30ca.jpg",
@@ -12,14 +12,14 @@
     "static/media/work8.jpg": "/professional-portfolio/static/media/work8.5d1a9d0b0d6b8b904a7b.jpg",
     "static/media/work6.jpg": "/professional-portfolio/static/media/work6.ccb0205196d41264d2eb.jpg",
     "static/media/work9.jpg": "/professional-portfolio/static/media/work9.3cd2c23c6e3418f861b0.jpg",
-    "static/media/Resume-Saetern.pdf": "/professional-portfolio/static/media/Resume-Saetern.2faa1f3ab3826895ff4f.pdf",
+    "static/media/LowBrianSaetern-Resume.pdf": "/professional-portfolio/static/media/LowBrianSaetern-Resume.77b628177d6e167b60b0.pdf",
     "static/media/work5.jpg": "/professional-portfolio/static/media/work5.25b3cbd56f95dc683d82.jpg",
     "index.html": "/professional-portfolio/index.html",
     "main.16663cad.css.map": "/professional-portfolio/static/css/main.16663cad.css.map",
-    "main.b918843a.js.map": "/professional-portfolio/static/js/main.b918843a.js.map"
+    "main.3f2d293e.js.map": "/professional-portfolio/static/js/main.3f2d293e.js.map"
   },
   "entrypoints": [
     "static/css/main.16663cad.css",
-    "static/js/main.b918843a.js"
+    "static/js/main.3f2d293e.js"
   ]
 }
