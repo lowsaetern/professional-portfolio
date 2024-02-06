@@ -1,7 +1,7 @@
 import React from "react";
 import "./about.css";
 import AboutImg from "../../assets/about.jpg";
-import CV from "../../assets/Resume-Saetern.pdf";
+import CV from "../../assets/Low Brian Saetern V2 - Resume 2023.pdf";
 import Info from "./Info";
 
 const About = () => {
